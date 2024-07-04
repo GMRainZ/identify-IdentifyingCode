@@ -1,0 +1,2 @@
+# identify-IdentifyingCode
+使用卷积神经网络训练一个可以识别验证码的模型
